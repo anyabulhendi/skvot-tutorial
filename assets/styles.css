@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Druk Wide Cy';
+    src: url("fonts/DrukWideCy-Medium.woff2") format('woff2'),
+        url("fonts/DrukWideCy-Medium.woff") format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+	font-family: 'PTRootUIWebRegular';
+	src: url("fonts/PT%20Root%20UI_Regular.eot");
+	src:
+	     url("fonts/PT%20Root%20UI_Regular.eot?#iefix") format('embedded-opentype'),
+	     url("fonts/PT%20Root%20UI_Regular.woff2") format('woff2'),
+	     url("fonts/PT%20Root%20UI_Regular.woff") format('woff'),
+	     url("fonts/PT%20Root%20UI_Regular.ttf") format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+    font-family: "Druk Wide Cy";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    background: #F9B653;
+    color: #fff;
+    max-width: 993px;
+    margin: 112px;
+    
+}
+.nav {
+    font-size: 14px;
+    color: black;
+    margin-right: 40px;
+    padding-left: 1022px;
+    align-items: center;
+    flex-wrap: wrap;
+    white-space: nowrap;
+    margin-top: 82px;
+    
+
+}
+h1 {
+    margin-bottom: 84px;
+}
+p {
+    font-family: "PTRootUIWebRegular";
+    font-style: normal;
+    font-size: 40px;
+    color: black;
+    display: flex;
+    padding: 0;
+    margin-left: 0;
+    
+    
+
+}
+.date {
+    margin-left: 115px;
+    margin-right: 40px;
+}
+h2 {
+    font-size: 34px;
+    margin-top: 342px;
+      
+}
+.films div {
+    display: flex;
+    align-items: flex-end;
+    position: absolute;
+    width: 496px;
+    height: 504px;
+    left: 112px;
+    top: 1000px;
+
+}
+.films img {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 440px;
+    height: 605px;
+    left: 1200px;
+    top: 1570px;
+}
+
+
+
+
