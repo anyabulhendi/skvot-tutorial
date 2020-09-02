@@ -23,11 +23,11 @@ body {
     font-style: normal;
     font-weight: 500;
     font-size: 100px;
-    background: #F9B653;
+    background:#F9B653;
     color: #fff;
     max-width: 993px;
     margin: 112px;
-    
+
 }
 .nav {
     font-size: 14px;
@@ -43,6 +43,7 @@ body {
 }
 h1 {
     margin-bottom: 84px;
+    width: 968px;
 }
 p {
     font-family: "PTRootUIWebRegular";
@@ -52,6 +53,7 @@ p {
     display: flex;
     padding: 0;
     margin-left: 0;
+    width: 670px;
     
     
 
@@ -60,10 +62,25 @@ p {
     margin-left: 115px;
     margin-right: 40px;
 }
+.section-red {
+    background: #EA5A5A;
+    position: absolute;
+    width: 720px;
+    height: 871px;
+    left: 0px;
+    top: 1350px;
+}
 h2 {
     font-size: 34px;
-    margin-top: 342px;
+    margin-top: 130px;
+    margin-left: 112px;
       
+}
+.text {
+    margin-left: 112px;
+    font-size: 22px;
+    line-height: 140%;
+    width: 496px;
 }
 .films div {
     display: flex;
@@ -81,8 +98,8 @@ h2 {
     position: absolute;
     width: 440px;
     height: 605px;
-    left: 1200px;
-    top: 1570px;
+    left: 860px;
+    top: 136px;
 }
 
 
